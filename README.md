@@ -1,2 +1,2 @@
-# indie-game-single-page
-Indie game - single page website
+# Indie game website
+This repository stores the code of an indie game website. The game doesn't exist.
