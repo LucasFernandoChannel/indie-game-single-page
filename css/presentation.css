@@ -1,0 +1,62 @@
+body {
+    background-image: url("../images/background-presentation-page.jpg");
+}
+
+a {
+    color: #ffffff;
+}
+
+.nav-link {
+    font-size: 16pt;
+    margin-left: 50px;
+}
+
+.nav-link:hover {
+    color: #f2a589;
+}
+
+nav {
+    border-bottom: 2px solid #ffffff;
+    padding: 30px 0;
+    text-align: center;
+}
+
+#page-content {
+    position: relative;
+    min-height: 100vh;
+}
+
+#main-content {
+    top: 50%;
+}
+
+h1 {
+    font-size: 64pt;
+}
+
+p {
+    padding: 0 450px;
+}
+
+em {
+    font-weight: 900;
+}
+
+footer {
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+#footer-text {
+    font-size: 14pt;
+    text-align: center;
+}
+
+#github-link {
+    font-weight: 900;
+}
+
+#github-link:hover {
+    color:#f2a589;
+}
